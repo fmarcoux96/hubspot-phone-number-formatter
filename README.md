@@ -34,7 +34,6 @@ $ php contacts.php
 OR
 
 ```
-$ composer install
 $ php companies.php
 ```
 
@@ -44,7 +43,7 @@ Feel free to fork or contribute via pull requests!
 Happy HubSpotting!
 
 ## Ideas
-- Use !(https://github.com/HubSpot/hubspot-php)[HubSpot PHP] instead of the deprecated `ryanwinchester/hubspot-php`
+- Use [HubSpot/hubspot-php](https://www.github.com/HubSpot/hubspot-php) instead of the deprecated `ryanwinchester/hubspot-php`
 - Update to support ALL contacts and companies, not just the first 100.
 - Update to support ALL phone fields instead of just one.
 - Update to support international numbers (or just skip them.)
