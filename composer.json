@@ -1,0 +1,13 @@
+{
+    "name": "fmarc/hubspot-formatter",
+    "type": "project",
+    "require": {
+        "ryanwinchester/hubspot-php": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Frederick Marcoux",
+            "email": "fmarcoux260496@gmail.com"
+        }
+    ]
+}
